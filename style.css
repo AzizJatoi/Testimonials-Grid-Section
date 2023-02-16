@@ -84,6 +84,7 @@ body {
 .image-and-text img{
     border-radius: 50%;
     border: 2px solid rgb(175, 107, 209);
+    max-width: 50px;
 }
 .image-and-text {
     display: flex;
